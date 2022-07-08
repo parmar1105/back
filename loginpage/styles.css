@@ -1,0 +1,14 @@
+h1{
+font-family: 'Ubuntu', sans-serif;
+}
+body{
+    margin-top: 2%;
+    background-color: green;
+}
+.container{
+    padding: 2%;
+    background-color: aliceblue;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 10%;
+}
